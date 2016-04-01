@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/bg_color_gray" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="商家简介 "
+        android:textColor="@color/text_color_heavy_gray"
+        android:textSize="@dimen/customer_textsize" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/bg_color_gray" />
+
+    <TextView
+        android:id="@+id/shop_brief"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:inputType="textMultiLine"
+        android:lineSpacingExtra="5dp"
+        android:padding="10dp"
+        android:text="餐盘之中色香味俱全全在乎第三方了坚实的雷锋精神雷锋精神浪费，松岛枫连锁酒店发牢骚的肌肤，第三方将打开房间塑料袋附近，啥地方了坚实的离开房间山东龙口，"
+        android:textSize="@dimen/mid_textsize" />
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#848484</color>
+    <color  name="bg_color_gray">#f0f0f2</color>
+    <color  name="text_color_light_gray">#A4A4A4</color>
+    <color  name="text_color_heavy_gray">#000000</color>
+    <color name="text_color_red">#F44236</color>
+</resources>

@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/titlebar" >
+    </include>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#f2f2f2"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                     android:id="@+id/myself_data"
+                android:layout_width="fill_parent"
+                android:layout_height="120dip"
+                android:background="#F34334"
+                android:gravity="left"
+                android:orientation="horizontal" >
+
+                <RelativeLayout
+               
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    android:orientation="horizontal" >
+
+                   
+                      
+                    
+
+                    <RelativeLayout
+                        android:id="@+id/touxiang"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="10dp" >
+
+                        <ImageView
+                            android:layout_width="82.0dip"
+                            android:layout_height="82.0dip"
+                            android:layout_centerInParent="true"
+                            android:contentDescription="@null"
+                            android:background="@drawable/me_head_bg"
+                             />
+					<com.android.lehuitong.view.CircularImage
+					    android:id="@+id/my_photo"
+					    android:layout_width="74.0dip"
+					    android:layout_height="74.0dip"
+					    android:layout_centerInParent="true"
+					    android:background="@drawable/touxiang"
+					    />
+                      
+                    </RelativeLayout>
+               
+
+                    <LinearLayout
+                        android:layout_toRightOf="@+id/touxiang"
+                        android:id="@+id/myself_info_xiugai"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_toLeftOf="@+id/enter_next"
+                        android:orientation="vertical" >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal" >
+
+                            <TextView
+                                android:layout_alignParentLeft="true"
+                                android:layout_centerVertical="true"
+                                android:id="@+id/phone_number"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="#ffffff"
+                                android:text="          "
+                                android:maxLength="11"
+                                android:textSize="17sp" />
+
+                            <ImageView
+                                android:id="@+id/rank_image"
+                                android:layout_toRightOf="@+id/phone_number"
+                                android:layout_marginLeft="10dp"
+                                android:layout_centerVertical="true"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:src="@drawable/my_gold_member_icon" />
+                              <TextView
+                                android:id="@+id/rank_name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_alignParentRight="true"
+                                android:layout_marginLeft="10dp"
+                                android:text="Lv"
+                                android:textColor="#ffffff"
+                                android:textSize="13sp" />
+                            
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/progressBar_activity"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal" >
+
+                            <ProgressBar
+                                android:id="@+id/progressBar1"
+                                android:progressDrawable="@drawable/progress_style"
+                                style="?android:attr/progressBarStyleHorizontal"
+                                android:layout_width="match_parent"
+                                android:layout_height="10dp"
+                                 />
+                        </LinearLayout>
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:orientation="horizontal" >
+                          
+                            <TextView
+                                android:id="@+id/phonenumber"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="升级所需积分:"
+                                android:textColor="#ffffff"
+                                android:textSize="13sp" />
+
+                            <TextView
+                                android:id="@+id/rank_points"
+                                android:layout_toRightOf="@id/phonenumber"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="10dp"
+                                android:textColor="#ffffff"
+                                android:textSize="13sp" />
+                        </RelativeLayout>
+                    </LinearLayout>
+                    <ImageView 
+                        android:id="@+id/enter_next"
+                        android:layout_marginRight="10dip"
+                        android:layout_centerInParent="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="26dp"
+                        android:layout_height="26dp"
+                        android:src="@drawable/aarrow"
+                        />
+                </RelativeLayout>
+            </LinearLayout>
+<View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:background="#f2f2f2" />
+            <RelativeLayout
+                android:id="@+id/my_coupons"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dip"
+                android:background="#FFFFFF"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/mine_film_ticket"
+                    android:layout_width="20dip"
+                    android:layout_height="20dip"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:src="@drawable/mine_icon_film_ticket" />
+
+                <ImageView
+                    android:layout_width="20dip"
+                    android:layout_height="20dip"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="16dip"
+                    android:paddingLeft="10dp"
+                    android:src="@drawable/ktv_switch_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@id/mine_film_ticket"
+                    android:text="我的红包"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp" />
+
+            <RelativeLayout
+                android:id="@+id/my_order"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dip"
+                android:background="#FFFFFF"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/mine_icon_order"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:src="@drawable/mine_icon_order" />
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="16dip"
+                    android:paddingLeft="10dp"
+                    android:src="@drawable/ktv_switch_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@id/mine_icon_order"
+                    android:text="我的订单"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#f2f2f2" />
+
+            <RelativeLayout
+                android:id="@+id/my_integral"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dip"
+                android:background="#FFFFFF"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/mine_icon_point"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:src="@drawable/mine_icon_point" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dip"
+                    android:layout_toRightOf="@id/mine_icon_point"
+                    android:text="我的积分"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="16dip"
+                    android:paddingLeft="10dp"
+                    android:src="@drawable/ktv_switch_icon" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#f2f2f2" />
+
+            <RelativeLayout
+                android:id="@+id/my_cart"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dip"
+                android:background="#FFFFFF"
+                android:gravity="center" >
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="16dip"
+                    android:paddingLeft="10dp"
+                    android:src="@drawable/ktv_switch_icon" />
+
+                <ImageView
+                    android:id="@+id/mine_icon_member_card"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:src="@drawable/mine_icon_member_card" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@+id/mine_icon_member_card"
+                    android:text="我的购物车"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:background="#f2f2f2" />
+
+            <RelativeLayout
+                android:id="@+id/addressmanager"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dip"
+                android:background="#FFFFFF"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/mine_address_management_icon"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:src="@drawable/mine_address_management_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dip"
+                    android:layout_toRightOf="@+id/mine_address_management_icon"
+                    android:text="地址管理"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="16dip"
+                    android:paddingLeft="10dp"
+                    android:src="@drawable/ktv_switch_icon" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#f2f2f2" />
+
+            <RelativeLayout
+                android:id="@+id/passwordmanager"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dip"
+                android:background="#FFFFFF"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/mine_cipher_icon"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:src="@drawable/mine_cipher_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dip"
+                    android:layout_toRightOf="@+id/mine_cipher_icon"
+                    android:text="密码管理"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="16dip"
+                    android:paddingLeft="10dp"
+                    android:src="@drawable/ktv_switch_icon" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:background="#f2f2f2" />
+
+            <RelativeLayout
+                android:id="@+id/about_us"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dip"
+                android:background="#FFFFFF"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/mine_about_us_icon"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:src="@drawable/mine_about_us_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dip"
+                    android:layout_toRightOf="@+id/mine_about_us_icon"
+                    android:text="关于我们"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="16dip"
+                    android:paddingLeft="10dp"
+                    android:src="@drawable/ktv_switch_icon" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#f2f2f2" />
+
+            <RelativeLayout
+                android:id="@+id/feedback"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="0dip"
+                android:background="#FFFFFF"
+                android:gravity="center" >
+
+                <ImageView
+                    android:id="@+id/mine_feedback_icon"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:src="@drawable/mine_feedback_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dip"
+                    android:layout_toRightOf="@+id/mine_feedback_icon"
+                    android:text="意见反馈"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="16dip"
+                    android:paddingLeft="10dp"
+                    android:src="@drawable/ktv_switch_icon" />
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/log_out_button"
+                android:layout_width="fill_parent"
+                android:layout_height="40dip"
+                android:layout_marginBottom="40dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="40dp"
+                android:background="@drawable/rounded_button"
+                android:gravity="center"
+                android:text="退出登录"
+                android:textColor="#FFFFFF"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

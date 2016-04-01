@@ -1,0 +1,778 @@
+[
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eat_tab_selected_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\eat_tab_selected_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hui.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\hui.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_detail_store.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\icon_detail_store.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bootpage_slideshow_currentpage.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bootpage_slideshow_currentpage.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ktv_switch_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ktv_switch_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ktv_mobile_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ktv_mobile_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\magnifying_glass.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\magnifying_glass.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_icon_film_ticket.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_icon_film_ticket.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qingtong.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\qingtong.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\alipay.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\alipay.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\food_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\food_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loginpage_button_bg.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\loginpage_button_bg.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\address_management_the_default_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\address_management_the_default_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cart.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ic_cart.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shopping_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\shopping_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\butto_off.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\butto_off.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_address_management_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_address_management_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_time.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\icon_time.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\business_details_telephone_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\business_details_telephone_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bank_card.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bank_card.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\button_on.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\button_on.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\the_home_page_hi_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\the_home_page_hi_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_hopping_cart_not_selected_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\my_hopping_cart_not_selected_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bootpage_slidshow.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bootpage_slidshow.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jiantou.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\jiantou.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zuanshi_red.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\zuanshi_red.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eat_return_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\eat_return_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eat_in_the_music_text_background.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\eat_in_the_music_text_background.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_address_management_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_address_management_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\verification_code_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\verification_code_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_icon_point.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_icon_point.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\product_details_authentic_guaranteed_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\product_details_authentic_guaranteed_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\haitao.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\haitao.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bootpage_slidshow.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bootpage_slidshow.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_shopping_cart_plus_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\my_shopping_cart_plus_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page_indicator_unfocused.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\page_indicator_unfocused.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\the_home_page_my_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\the_home_page_my_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\juxing.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\juxing.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_shopping_cart_reduction_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\my_shopping_cart_reduction_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\touxiang.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\touxiang.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hui.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\hui.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bg.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ktv_calendar_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ktv_calendar_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zuanshi.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\zuanshi.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_data_head_sculpture.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\personal_data_head_sculpture.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\log_btn_backgroud.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\log_btn_backgroud.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_data_gender_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\personal_data_gender_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bootpage_slideshow_currentpage.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bootpage_slideshow_currentpage.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eat_return_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\eat_return_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ktv_choose_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ktv_choose_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_gold_member_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\my_gold_member_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loginpage_enterapassword_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\loginpage_enterapassword_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_to_cart_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\add_to_cart_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zuanshi_yellow.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\zuanshi_yellow.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\alipay.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\alipay.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_cart.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ic_cart.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loginpage_line.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\loginpage_line.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loginpage_line.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\loginpage_line.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huangjin.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\huangjin.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\free_registration.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\free_registration.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_hopping_cart_not_selected_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\my_hopping_cart_not_selected_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loginpage_username_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\loginpage_username_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_icon_member_card.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_icon_member_card.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bootpage2.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bootpage2.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\registered_agreement_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\registered_agreement_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\the_home_page_eat_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\the_home_page_eat_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_icon_member_card.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_icon_member_card.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_feedback_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_feedback_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_time.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\icon_time.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wechat.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\wechat.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_data_gender_choice_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\personal_data_gender_choice_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_feedback_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_feedback_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\the_home_page_eat_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\the_home_page_eat_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_detail.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\icon_detail.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page_indicator_unfocused.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\page_indicator_unfocused.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\business_details_telephone_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\business_details_telephone_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\the_home_page_my_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\the_home_page_my_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\purchase_in_the_music_exchange_icon_time.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\purchase_in_the_music_exchange_icon_time.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\purchase_shopping_cart_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\purchase_shopping_cart_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_cipher_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_cipher_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\member_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\member_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\purchase_shopping_cart_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\purchase_shopping_cart_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ktv_switch_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ktv_switch_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_icon_film_ticket.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_icon_film_ticket.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_icon_order.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_icon_order.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\juxing.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\juxing.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_data_head_sculpture.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\personal_data_head_sculpture.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eat_search_telephone_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\eat_search_telephone_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\address_management_the_default_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\address_management_the_default_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_to_cart_display_ivon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\add_to_cart_display_ivon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\member_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\member_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aarrow.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\aarrow.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bootpage1.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bootpage1.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zuanshi_red.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\zuanshi_red.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\business_details_gps_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\business_details_gps_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_psw.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\find_psw.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\__icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\__icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bootpage3.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bootpage3.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_icon_order.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_icon_order.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eat_search_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\eat_search_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shopping_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\shopping_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zuanshi_yellow.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\zuanshi_yellow.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bojin.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bojin.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\baiyin.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\baiyin.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mobile_phone_number_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mobile_phone_number_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\registered_agreement_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\registered_agreement_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\butto_off.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\butto_off.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\baiyin.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\baiyin.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eat_tab_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\eat_tab_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\touxiang.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\touxiang.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\search.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\oginpage_bg.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\oginpage_bg.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\load.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\load.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page_indicator_focused.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\page_indicator_focused.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eat_search_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\eat_search_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bojin.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bojin.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_detail.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\icon_detail.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ktv_location_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ktv_location_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_shopping_cart_plus_selected_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\my_shopping_cart_plus_selected_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\the_home_page_purchase_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\the_home_page_purchase_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ktv_room_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ktv_room_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_shopping_cart_choice_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\my_shopping_cart_choice_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\huangjin.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\huangjin.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bank_card.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bank_card.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\free_registration.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\free_registration.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\button_on.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\button_on.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_to_cart_display_ivon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\add_to_cart_display_ivon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_gold_member_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\my_gold_member_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ktv_mobile_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ktv_mobile_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qingtong.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\qingtong.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\product_details_authentic_guaranteed_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\product_details_authentic_guaranteed_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\hotel_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\oginpage_bg.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\oginpage_bg.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_back.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bootpage3.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bootpage3.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_back.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_back.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\icon_back.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_about_us_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_about_us_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\aarrow.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\aarrow.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_cipher_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_cipher_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bootpage2.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bootpage2.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\wechat.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\wechat.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ktv_location_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ktv_location_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\the_home_page_purchase_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\the_home_page_purchase_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cipher.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\cipher.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_data_gender_choice_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\personal_data_gender_choice_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_shopping_cart_plus_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\my_shopping_cart_plus_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loginpage_button_bg.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\loginpage_button_bg.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bootpage1.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\bootpage1.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_about_us_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_about_us_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_detail_store.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\icon_detail_store.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_shopping_cart_choice_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\my_shopping_cart_choice_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\purchase_in_the_music_exchange_icon_time.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\purchase_in_the_music_exchange_icon_time.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eat_tab_selected_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\eat_tab_selected_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loginpage_username_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\loginpage_username_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\magnifying_glass.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\magnifying_glass.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\jiantou.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\jiantou.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mine_icon_point.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mine_icon_point.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eat_in_the_music_text_background.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\eat_in_the_music_text_background.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\the_home_page_hi_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\the_home_page_hi_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\verification_code_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\verification_code_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ktv_choose_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ktv_choose_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cipher.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\cipher.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eat_tab_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\eat_tab_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ktv_calendar_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ktv_calendar_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\__icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\__icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_to_cart_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\add_to_cart_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\eat_search_telephone_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\eat_search_telephone_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ktv_room_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ktv_room_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\hotel_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\hotel_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\find_psw.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\find_psw.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_shopping_cart_plus_selected_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\my_shopping_cart_plus_selected_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_back.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\business_details_gps_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\business_details_gps_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\page_indicator_focused.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\page_indicator_focused.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mobile_phone_number_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\mobile_phone_number_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\my_shopping_cart_reduction_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\my_shopping_cart_reduction_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loginpage_enterapassword_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\loginpage_enterapassword_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zuanshi.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\zuanshi.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\personal_data_gender_icon.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\personal_data_gender_icon.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\food_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\food_icon.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\haitao.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\haitao.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\load.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\load.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\log_btn_backgroud.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\log_btn_backgroud.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\_icon.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable-xhdpi\\_icon.png"
+    }
+]

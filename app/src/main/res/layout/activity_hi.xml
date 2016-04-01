@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f0f0f2"
+    android:orientation="vertical" >
+
+    <include
+       
+        layout="@layout/titlebar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/ktv_location_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:gravity="center_vertical" >
+
+                <ImageView
+                    android:id="@+id/icon_ktv_location"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:paddingLeft="15dp"
+                    android:src="@drawable/ktv_location_icon" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/icon_ktv_location"
+                    android:padding="5dp"
+                    android:text="门店"
+                    android:textColor="#9F9F9F"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/ktv_location_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:padding="5dp"
+                    android:text=""
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:background="#ffffff"
+                android:padding="5dp" >
+
+                <ImageView
+                    android:id="@+id/tu_biao"
+                    android:layout_width="14dp"
+                    android:layout_height="14dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="5dp"
+                    android:src="@drawable/business_details_gps_icon" />
+
+                <TextView
+                    android:id="@+id/shop_address"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/tu_biao"
+                    android:text=""
+                    android:textColor="#9F9F9F"
+                    android:textSize="14sp" />
+
+                
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:background="#ffffff" >
+
+                <TextView
+                    android:id="@+id/on_off_color"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="我要订包"
+                    android:textColor="#60B5E4"
+                    android:textSize="16sp" />
+
+                <ImageView
+                    android:id="@+id/btn_switch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="16dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/button_on" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/order_details_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/ktv_calendar_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center_vertical" >
+
+                    <ImageView
+                        android:id="@+id/icon_ktv_calendar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:paddingLeft="10dp"
+                        android:src="@drawable/ktv_calendar_icon" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/icon_ktv_calendar"
+                        android:padding="15dp"
+                        android:text="日期"
+                        android:textColor="#9F9F9F"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/icon_ktv_switch2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:paddingRight="10dp"
+                        android:src="@drawable/ktv_switch_icon" />
+
+                    <TextView
+                        android:id="@+id/ktv_calendar_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@id/icon_ktv_switch2"
+                        android:padding="10dp"
+                        android:text="2015-5-1"
+                        android:textSize="16sp" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/ktv_room_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center_vertical" >
+
+                    <ImageView
+                        android:id="@+id/icon_ktv_room"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:paddingLeft="10dp"
+                        android:src="@drawable/ktv_room_icon" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/icon_ktv_room"
+                        android:padding="15dp"
+                        android:text="包厢类型"
+                        android:textColor="#9F9F9F"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/icon_ktv_switch3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:paddingRight="10dp"
+                        android:src="@drawable/ktv_switch_icon" />
+
+                    <TextView
+                        android:id="@+id/ktv_room_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@id/icon_ktv_switch3"
+                        android:padding="10dp"
+                        android:text="大包"
+                        android:textSize="16sp" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/ktv_mobile_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="1dp"
+                    android:background="#ffffff"
+                    android:gravity="center_vertical" >
+
+                    <ImageView
+                        android:id="@+id/icon_ktv_mobile"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:paddingLeft="10dp"
+                        android:src="@drawable/ktv_mobile_icon" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/icon_ktv_mobile"
+                        android:padding="15dp"
+                        android:text="预留手机号"
+                        android:textColor="#9F9F9F"
+                        android:textSize="16sp" />
+
+                    <ImageView
+                        android:id="@+id/icon_ktv_switch4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:paddingRight="10dp"
+                        android:src="@drawable/ktv_switch_icon" />
+
+                    <com.android.lehuitong.adapter.TextViewAdapter
+                        android:id="@+id/ktv_mobile_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@id/icon_ktv_switch4"
+                        android:maxLength="11"
+                        android:padding="10dp"
+                        android:phoneNumber="true"
+                        android:clickable="false"
+                        android:focusable="false"
+                        android:textSize="16sp" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <Gallery
+                android:id="@+id/ktv_package_choose"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="30dp"
+                android:scrollbars="none"
+                android:spacing="30dp" />
+    <Button
+        android:id="@+id/ktv_next_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="#f54337"
+        android:gravity="center_horizontal|center_vertical"
+        android:padding="10dp"
+        android:text="下一步"
+        android:textColor="#ffffff"
+        android:textSize="16sp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

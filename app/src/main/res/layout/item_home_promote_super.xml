@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <!-- 超值推荐 -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="超值推荐" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#F0F0F2" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="151dp"
+        android:background="#ffffff"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/super_layout1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <TextView
+                android:id="@+id/one_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:maxEms="10"
+                android:singleLine="false"
+                android:text="天绿回转寿司单人自助餐50元代金券，可累加" />
+
+            <com.BeeFramework.view.WebImageView
+                android:id="@+id/one_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/default_image" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="#F0F0F2" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#ffffff"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/super_layout2"
+                android:layout_width="wrap_content"
+                android:layout_height="75dp"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:id="@+id/two_name"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginBottom="1dp"
+                    android:layout_marginLeft="4dp"
+                    android:layout_weight="1.5"
+                    android:maxEms="9"
+                    android:singleLine="false"
+                    android:text="KTV全场七折起" />
+
+                <com.BeeFramework.view.WebImageView
+                    android:id="@+id/two_img"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    
+                    android:scaleType="fitXY"
+                    android:src="@drawable/default_image" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#F0F0F2" />
+
+            <LinearLayout
+                android:id="@+id/super_layout3"
+                android:layout_width="wrap_content"
+                android:layout_height="75dp"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:padding="5dp" >
+
+                <TextView
+                    android:id="@+id/three_name"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="4dp"
+                    android:layout_weight="1.5"
+                    android:maxEms="9"
+                    android:singleLine="false"
+                    android:text="KTV全场七折起" />
+
+                <com.BeeFramework.view.WebImageView
+                    android:id="@+id/three_img"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/default_image" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="#F0F0F2" />
+
+</LinearLayout>

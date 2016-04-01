@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/eat_listview_linearLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#f2f2f2"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#ffffff"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/eat_listview_RelativeLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="160dp"
+             >
+
+            <com.BeeFramework.view.WebImageView
+                android:id="@+id/shop_img"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/default_image"
+                android:scaleType="fitXY" />
+
+            <RelativeLayout
+               android:background="#50000000"
+                android:gravity="center_vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"
+                android:layout_alignParentBottom="true"
+                >
+
+                <TextView
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/eat_listview_Image_word"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text=""
+                    android:textColor="#FFFFFFFF"
+                    android:singleLine="true"
+                    android:textSize="13sp" />
+
+                <TextView
+                    android:id="@+id/eat_listview_hui"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/hui" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+             android:layout_marginBottom="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#ffffff" >
+	<LinearLayout 
+	    android:id="@+id/layout"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    >
+            <TextView
+                android:id="@+id/eat_listview_address"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="8dp"
+                android:layout_weight="2.7"
+                android:text=""
+                android:singleLine="true"
+                android:textColor="#040500"
+                                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/eat_listview_distance"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="8dp"
+                android:text=""
+                android:layout_weight="1"
+                android:textColor="#BABABA"
+                android:gravity="right"
+                android:textSize="14sp" />
+</LinearLayout>
+            <TextView
+                android:id="@+id/eat_listview_order"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/layout"
+                android:layout_marginTop="8dp"
+               
+                android:text="订单数量："
+                android:textColor="#BABABA"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/eat_listview_order_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/layout"
+                android:layout_marginTop="8dp"
+                android:layout_toRightOf="@+id/eat_listview_order"
+                android:text=""
+                android:textColor="#BABABA"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/eat_listview_phone"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/layout"
+                android:layout_marginRight="16dp"
+                android:layout_marginTop="4dp"
+                android:background="@drawable/eat_search_telephone_icon" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

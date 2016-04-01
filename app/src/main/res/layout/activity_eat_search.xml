@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#F7F7F7">
+    
+	  <RelativeLayout
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:layout_marginTop="16dp" >
+
+<RelativeLayout
+    android:layout_centerVertical="true" 
+     android:layout_marginLeft="16dp"
+       android:layout_toLeftOf="@+id/eat_search_cancel1"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+     android:background="@drawable/editview_shape"
+    >
+        <EditText
+            android:padding="5dp"
+           
+            android:id="@+id/search_search1"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+         android:drawableLeft="@drawable/search"
+            android:gravity="left|center_vertical"
+            android:hint="	搜索商家"
+            android:textSize="14sp"
+            android:singleLine="true" 
+            android:imeOptions="actionSearch"
+            android:background="@drawable/editview_shape"/>
+       <!-- <ImageView 
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/search"
+            /> --> 
+</RelativeLayout>
+       <!--  <ImageView
+            android:id="@+id/eat_search1"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="16dp"
+            android:layout_alignRight="@+id/search_search1"
+            android:layout_centerVertical="true"
+            android:src="@drawable/eat_search_icon" /> -->
+
+
+       <TextView 
+           android:id="@+id/eat_search_cancel1"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_margin="16dp"
+           android:layout_centerVertical="true"
+           android:layout_alignParentRight="true"
+           android:text="确定"
+           android:textSize="18sp"
+           android:textColor="#F44236"/>
+   
+    </RelativeLayout>
+       
+   <LinearLayout 
+       android:layout_width="fill_parent"
+       android:layout_height="fill_parent"
+       android:orientation="vertical"
+       android:layout_marginTop="16dp"
+       android:background="#EEEEEE">
+       <View 
+           android:layout_width="fill_parent"
+           android:layout_height="0.5dp"
+           android:background="#C9C9C9"/>
+    
+    
+    <GridView 
+        android:id="@+id/gridview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numColumns="3"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:gravity="center"
+        ></GridView>
+    </LinearLayout>
+</LinearLayout>

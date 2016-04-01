@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/home_ktv_click"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+    
+
+    <com.BeeFramework.view.WebImageView
+        android:id="@+id/home_ktv_view"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/default_image" />
+
+    <TextView
+        android:id="@+id/home_ktv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/home_ktv_view"
+        android:singleLine="true"
+        android:paddingBottom="5dp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:textSize="12sp" />
+
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:layout_below="@+id/home_ktv_name"
+        android:background="#f0f0f2"
+        />
+</RelativeLayout>
+</RelativeLayout>

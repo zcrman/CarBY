@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+<TextView
+    android:id="@+id/title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10dp"
+    android:padding="5dp"
+    android:visibility="gone"
+    android:text="aa" />
+<View 
+    android:id="@+id/below_title"
+    android:layout_width="match_parent"
+    android:layout_height="1dp"
+    android:background="#fafafa"
+    android:visibility="gone"
+    />
+
+    <LinearLayout
+        android:id="@+id/item_layout"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal" >
+
+        <com.BeeFramework.view.WebImageView
+            android:id="@+id/goods_img"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/default_image" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/goods_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="南极人春款套件" />
+
+            <TextView
+                android:id="@+id/goods_brief"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="一二山大煞风景雷锋精神地脚螺栓京东方塑料袋附近"
+                android:singleLine="true"
+                android:textColor="#CDCACB" />
+            <RelativeLayout 
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+                <ImageView 
+                    android:id="@+id/money_pic"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/juxing"
+                    android:layout_centerVertical="true"
+                    />
+            <TextView 
+                android:id="@+id/home_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:layout_marginLeft="10dp"
+               	android:layout_toRightOf="@id/money_pic"
+               	android:layout_centerVertical="true"
+                android:textColor="#ff0000"/>
+            <TextView 
+                android:id="@+id/home_promote"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text=""
+                android:textColor="#bfbfbf"
+                android:layout_marginRight="10dp"
+                />
+            </RelativeLayout>
+        </LinearLayout>
+        
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,43 @@
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/tabhost"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF" >
+    />
+    
+ <!-- TabWidget的id必须为tabs，它是导航标签 -->
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+     <include 
+         layout="@layout/titlebar"
+         />
+   <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+	
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@null"
+                android:gravity="top"
+                android:visibility="visible" />
+        </FrameLayout>
+        <!-- FrameLayout的id必须为tabcontent，它里面可以定义多组布局样式，每组对应一个导航界面 -->
+
+        <FrameLayout
+            android:id="@android:id/tabcontent"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1" >
+        </FrameLayout>
+
+       
+       
+
+     
+    </LinearLayout>
+
+</TabHost>

@@ -1,0 +1,89 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Risky Project Location:
+-----------------------
+The tools *should* handle project locations in any directory. However,
+due to bugs, placing projects in directories containing spaces in the
+path, or characters like ", ' and &, have had issues. We're working to
+eliminate these bugs, but to save yourself headaches you may want to
+move your project to a location where this is not a problem.
+D:\Android Work\lehuitong
+          -              
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\lehuitong.iml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:22.2.1
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* libs\alipaySDK-20150602.jar => app\libs\alipaySDK-20150602.jar
+* libs\armeabi-v7a\libBaiduMapSDK_v3_3_0_15.so => app\src\main\jniLibs\armeabi-v7a\libBaiduMapSDK_v3_3_0_15.so
+* libs\armeabi-v7a\liblocSDK5.so => app\src\main\jniLibs\armeabi-v7a\liblocSDK5.so
+* libs\armeabi\libBaiduMapSDK_v3_3_0_15.so => app\src\main\jniLibs\armeabi\libBaiduMapSDK_v3_3_0_15.so
+* libs\armeabi\libbdpush_V2_1.so => app\src\main\jniLibs\armeabi\libbdpush_V2_1.so
+* libs\armeabi\libbspatch.so => app\src\main\jniLibs\armeabi\libbspatch.so
+* libs\armeabi\libgetuiext.so => app\src\main\jniLibs\armeabi\libgetuiext.so
+* libs\armeabi\liblocSDK5.so => app\src\main\jniLibs\armeabi\liblocSDK5.so
+* libs\BaiduLBS_Android.jar => app\libs\BaiduLBS_Android.jar
+* libs\GetuiExt-2.0.3.jar => app\libs\GetuiExt-2.0.3.jar
+* libs\GetuiSdk2.5.0.0.jar => app\libs\GetuiSdk2.5.0.0.jar
+* libs\json_simple-1.1.jar => app\libs\json_simple-1.1.jar
+* libs\libammsdk.jar => app\libs\libammsdk.jar
+* libs\mips\libbdpush_V2_1.so => app\src\main\jniLibs\mips\libbdpush_V2_1.so
+* libs\pushservice-4.1.0.jar => app\libs\pushservice-4.1.0.jar
+* libs\umeng-update-v2.6.0.1.jar => app\libs\umeng-update-v2.6.0.1.jar
+* libs\universal-image-loader-1.9.2_sources.jar => app\libs\universal-image-loader-1.9.2_sources.jar
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\com\external\androidquery\util\web_image.html => app\src\main\resources\com\external\androidquery\util\web_image.html
+* src\com\external\bayesian\bayesian.cpp => app\src\main\resources\com\external\bayesian\bayesian.cpp
+* src\com\external\bayesian\bayesian.h => app\src\main\resources\com\external\bayesian\bayesian.h
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

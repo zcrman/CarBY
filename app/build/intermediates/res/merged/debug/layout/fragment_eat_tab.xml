@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/eat_title"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/eat"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp" >
+
+        <View
+            android:layout_width="0.8dp"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:background="#dcdcdc" />
+
+        <LinearLayout
+            android:id="@+id/eat_default"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:background="#ffffff"
+            android:orientation="horizontal"
+            android:padding="8dp" >
+
+            <TextView
+                android:id="@+id/eat_default_textview"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:text="默认"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.8dp"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:background="#dcdcdc" />
+
+        <LinearLayout
+            android:id="@+id/eat_popular"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:background="#ffffff"
+            android:orientation="horizontal"
+            android:padding="8dp" >
+
+            <TextView
+                android:id="@+id/eat_popular_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:gravity="center"
+                android:text="人气"
+                android:textSize="14sp" />
+
+          <!--   <ImageView
+                android:id="@+id/eat_popular_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/eat_tab_icon"
+                android:padding="10dp" />--> 
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.8dp"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:background="#dcdcdc" />
+
+        <LinearLayout
+            android:id="@+id/eat_distance"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:background="#ffffff"
+            android:orientation="horizontal"
+            android:padding="8dp" >
+
+            <TextView
+                android:id="@+id/eat_distance_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:gravity="center"
+                android:text="距离"
+                android:textSize="14sp" />
+
+          <!--    <ImageView
+                android:id="@+id/eat_distance_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/eat_tab_icon"
+                android:padding="10dp" />-->
+        </LinearLayout>
+
+        <View
+            android:layout_width="0.8dp"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:background="#dcdcdc" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#F2F2F2" />
+
+</LinearLayout>

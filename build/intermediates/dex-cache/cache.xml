@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Work\lehuitong\app\libs\GetuiSdk2.5.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="662a392693d1c2b781c336cd4131883ec829884c">
+        <dex dex="D:\Android Work\lehuitong\app\build\intermediates\pre-dexed\debug\GetuiSdk2.5.0.0_251b3465b66a01841095d6ec469d68d9cc4dd2e0.jar" />
+    </item>
+    <item
+        jar="D:\Android Work\lehuitong\app\libs\pushservice-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="52b83d80342efd002cd92d6ad5773016daba9fb0">
+        <dex dex="D:\Android Work\lehuitong\app\build\intermediates\pre-dexed\debug\pushservice-4.1.0_2f64e8af5c9c3ee326a3181ff9907b4f985771da.jar" />
+    </item>
+    <item
+        jar="D:\Android Work\lehuitong\app\libs\alipaySDK-20150602.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c880c895cf5ee3f7d055e566888cbf72bb3108fd">
+        <dex dex="D:\Android Work\lehuitong\app\build\intermediates\pre-dexed\debug\alipaySDK-20150602_e1c69e5f1f1b3e21be349b07ae16b48ee8ff157d.jar" />
+    </item>
+    <item
+        jar="D:\Android Work\lehuitong\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="868c060abfa9778e598e631f93f94037edbe8996">
+        <dex dex="D:\Android Work\lehuitong\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_8a3f6d2f618d3d8eb971f1fc734536e813f6bbe7.jar" />
+    </item>
+    <item
+        jar="D:\Android Work\lehuitong\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Android Work\lehuitong\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_4051d94cd641a92ad290fdbb6deb07a0d5e42b11.jar" />
+    </item>
+    <item
+        jar="D:\Android Work\lehuitong\app\libs\GetuiExt-2.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7825bfa9135d693e2046eab96fd94e724e0f9eda">
+        <dex dex="D:\Android Work\lehuitong\app\build\intermediates\pre-dexed\debug\GetuiExt-2.0.3_386edd62985b1eedce06e3cd2c346b56a93d3cdd.jar" />
+    </item>
+    <item
+        jar="D:\Android Work\lehuitong\app\libs\universal-image-loader-1.9.2_sources.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="D:\Android Work\lehuitong\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2_sources_75cb1cab595ed943f355d1e16689e9e8dd53e9a3.jar" />
+    </item>
+    <item
+        jar="D:\Android Work\lehuitong\app\libs\libammsdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7c2f29c05b35e8c8713be2b81c41cf18f98b64a">
+        <dex dex="D:\Android Work\lehuitong\app\build\intermediates\pre-dexed\debug\libammsdk_ba80eab93e6cc5824d91dd735f7dd3993d504539.jar" />
+    </item>
+    <item
+        jar="D:\Android Work\lehuitong\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Android Work\lehuitong\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_154364cbb8aba60f35ad6e20e5fe3ade0bb47793.jar" />
+    </item>
+    <item
+        jar="D:\Android Work\lehuitong\app\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="D:\Android Work\lehuitong\app\build\intermediates\pre-dexed\debug\umeng-update-v2.6.0.1_b297ae8d0a3cf9221fa7b5c02d1df118cb87245c.jar" />
+    </item>
+    <item
+        jar="G:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\Android Work\lehuitong\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_b56006890b150d58d214d773d8e6c862f76ef086.jar" />
+    </item>
+    <item
+        jar="D:\Android Work\lehuitong\app\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="D:\Android Work\lehuitong\app\build\intermediates\pre-dexed\debug\json_simple-1.1_e71ad10ec7ef811dbdae5231a61d92fed4383ef9.jar" />
+    </item>
+
+</items>

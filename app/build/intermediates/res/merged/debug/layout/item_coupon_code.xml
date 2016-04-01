@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="5dp" >
+
+        <TextView
+            android:id="@+id/code_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="券码01:"
+            android:textColor="#404040"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/code_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/code_name"
+            android:text="1244 1460 7183"
+            android:textColor="#404040"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/code_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="已使用"
+            android:textColor="#999999"
+            android:textSize="13sp" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_eat_btn.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\home_eat_btn.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bg.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\progress_bg.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_hi_btn.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\home_hi_btn.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_purchase_btn.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\home_purchase_btn.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_green.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me_head_bg.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\me_head_bg.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_background.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_title_bg.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_buydetail.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\shape_buydetail.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_light_gray.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\btn_shape_light_gray.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_style.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\progress_style.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_btn.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\rounded_btn.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login_register.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\shape_login_register.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_send_code_btn.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\user_send_code_btn.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_unclick_button.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\rounded_unclick_button.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loding.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\loding.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\numberpicker_divider.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\numberpicker_divider.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_hi_btn.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\home_hi_btn.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_heavy_gray.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\btn_shape_heavy_gray.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_orange.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_eat_btn.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\home_eat_btn.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_send_code_btn_gray.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\user_send_code_btn_gray.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table_view.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\table_view.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ktv_package_circle.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\ktv_package_circle.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_green.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoppingcart_background_circle.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\shoppingcart_background_circle.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_light_gray.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\btn_shape_light_gray.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_my_btn.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\home_my_btn.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button_verify.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\rounded_button_verify.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ktv_package_selected_bg.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\ktv_package_selected_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_img.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\seekbar_img.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_heavy_gray.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\btn_shape_heavy_gray.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_parchase_add_cart_button.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\shape_parchase_add_cart_button.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_img.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\seekbar_img.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ktv_package_selected_bg.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\ktv_package_selected_bg.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoppingcart_background_circle.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\shoppingcart_background_circle.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table_view.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\table_view.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_buydetail.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\shape_buydetail.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table_button_corlor.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\table_button_corlor.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbg_select.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\textbg_select.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download_dialog_bg.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\download_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\table_button_corlor.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\table_button_corlor.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\overscroll_glow.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\overscroll_glow.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_timepicker.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\layout_timepicker.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_send_code_btn.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\user_send_code_btn.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_parchase_add_cart_button.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\shape_parchase_add_cart_button.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\overscroll_glow.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\overscroll_glow.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_timepicker.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\layout_timepicker.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ktv_package_circle.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\ktv_package_circle.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_wifi_disable.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_select.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\tab_select.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editview_shape.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\editview_shape.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loding.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\loding.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body_content_shape.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\body_content_shape.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_item_selector.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\numberpicker_divider.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\numberpicker_divider.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_unclick_button.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\rounded_unclick_button.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_style.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\progress_style.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editview_shape.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\editview_shape.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me_head_bg.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\me_head_bg.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\body.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\dot.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gradient.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop_detail_pic.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\shop_detail_pic.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_my_btn.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\home_my_btn.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ktv_package_bg.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\ktv_package_bg.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_background.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\btn_background.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_dark.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_select.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\tab_select.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_edittext.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_light.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_item_selector.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_title_bg.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_send_code_btn_gray.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\user_send_code_btn_gray.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\body.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f_bg.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\f_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_dark.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_heavy_red.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\btn_shape_heavy_red.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_icon.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\tb_munion_icon.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\body_content_shape.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\body_content_shape.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_purchase_btn.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\home_purchase_btn.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_light.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_wifi_disable.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ktv_package_bg.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\ktv_package_bg.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_btn.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\rounded_btn.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\overscroll_edge.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\overscroll_edge.png"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbg_select.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\textbg_select.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login_login.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\shape_login_login.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download_dialog_bg.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\download_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\dot.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login_register.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\shape_login_register.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f_bg.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\f_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\overscroll_edge.png",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\overscroll_edge.png"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_button_verify.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\rounded_button_verify.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_login_login.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\shape_login_login.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bg.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\progress_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\progress_bar.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gradient.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\integral_text_bg.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\integral_text_bg.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_red.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tb_munion_icon.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\tb_munion_icon.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop_detail_pic.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\shop_detail_pic.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_common_gradient_orange.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\integral_text_bg.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\drawable\\integral_text_bg.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_shape_heavy_red.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\drawable\\btn_shape_heavy_red.xml"
+    }
+]

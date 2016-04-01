@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="160dp" >
+
+        <com.BeeFramework.view.WebImageView
+            android:id="@+id/shop_img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/default_image" />
+
+        <TextView
+            android:id="@+id/shop_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:background="#30000000"
+            android:padding="8dp"
+            android:text=""
+            android:textColor="#ffffff"
+            android:textSize="@dimen/customer_textsize" />
+
+        <!-- <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/shop_detail_pic"
+            android:src="@drawable/default_image" /> -->
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/bg_color_gray" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         >
+
+        <ImageView
+            android:layout_centerVertical="true"
+            android:id="@+id/location_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:src="@drawable/business_details_gps_icon" />
+
+        <TextView
+            android:layout_toRightOf="@+id/location_image"
+            android:id="@+id/shop_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="13dp"
+            android:paddingTop="13dp"
+            android:text=""
+            android:layout_toLeftOf="@+id/shop_call_phone"
+            android:textColor="@color/text_color_heavy_gray"
+            android:textSize="@dimen/customer_textsize" />
+
+        <!-- <TextView
+            android:id="@+id/shop_distances"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:text="离我12.6km"
+            android:gravity="right"
+            android:textColor="@color/text_color_light_gray"
+            android:layout_marginRight="5dp"
+            android:textSize="14sp" /> -->
+
+        <ImageView
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/shop_call_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="18dp"
+            android:src="@drawable/business_details_telephone_icon" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/bg_color_gray" />
+
+    <TextView
+        android:id="@+id/shop_activities"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="优惠活动  () "
+        android:textColor="@color/text_color_heavy_gray"
+        android:textSize="@dimen/customer_textsize" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/bg_color_gray" />
+
+</LinearLayout>

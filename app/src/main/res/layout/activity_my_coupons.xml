@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f2f2f2"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/coupons_title"
+        layout="@layout/titlebar" >
+    </include>
+
+    <ListView
+        android:layout_weight="1"
+        android:id="@+id/my_coupons_listview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@+id/coupons_title"
+        android:dividerHeight="1dp"
+        android:scrollbars="none" >
+    </ListView>
+
+	    <LinearLayout
+	        android:visibility="gone"
+	        android:id="@+id/coupons_use_btn"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentBottom="true"
+	        android:background="#FFFFFF"
+	        android:orientation="vertical"
+	        android:paddingBottom="10dp"
+	        android:paddingTop="10dp" >
+	
+	        <LinearLayout
+	            android:id="@+id/use_coupons"
+	            android:layout_width="fill_parent"
+	            android:layout_height="40dp"
+	            android:layout_marginLeft="16dp"
+	            android:layout_marginRight="16dp"
+	            android:background="@drawable/rounded_button"
+	            android:gravity="center"
+	            android:orientation="horizontal" >
+	
+	            <TextView
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:text="立即使用"
+	                android:textColor="#FFFFFF"
+	                android:textSize="15sp" />
+	        </LinearLayout>
+	    </LinearLayout>
+
+</LinearLayout>

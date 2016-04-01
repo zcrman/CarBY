@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/titlebar" />
+
+    <com.android.lehuitong.view.VerticalScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#f2f2f2"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#EFEFEF"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/coupondetail_image"
+                android:layout_width="wrap_content"
+                android:layout_height="160dp" >
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/coupon_img"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/default_image" />
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#50000000" >
+
+                    <TextView
+                        android:id="@+id/coupondetail_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="16dp"
+                        android:text="【七店通用】享甜价值10元的代金券1张"
+                        android:textColor="#FFFFFF"
+                        android:textSize="14sp" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff" >
+
+                <TextView
+                    android:id="@+id/coupondetail_context"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="8dp"
+                    android:text="满100可使用，每次消费限用一张" />
+
+                <TextView
+                    android:id="@+id/coupondetail_yishou"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/coupondetail_context"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="4dp"
+                    android:text="已售："
+                    android:textColor="#C7C7C7" />
+
+                <TextView
+                    android:id="@+id/coupondetail_sell_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/coupondetail_context"
+                    android:layout_marginTop="4dp"
+                    android:layout_toRightOf="@+id/coupondetail_yishou"
+                    android:text="100"
+                    android:textColor="#C7C7C7" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/coupondetail_context"
+                    android:layout_marginRight="4dp"
+                    android:layout_marginTop="4dp"
+                    android:layout_toLeftOf="@+id/coupondetail_price"
+                    android:src="@drawable/_icon" />
+
+                <TextView
+                    android:id="@+id/coupondetail_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/coupondetail_context"
+                    android:layout_marginRight="8dp"
+                    android:text="9.0"
+                    android:textColor="#F54337" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/time_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffff"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:id="@+id/time_icon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dp"
+                        android:layout_centerVertical="true"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/icon_time" />
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@id/time_icon"
+                       	android:layout_centerVertical="true"
+                        android:text="有效时间"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginRight="10dp"
+                        android:textColor="#BFBFBF"
+                        android:textSize="14sp" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#EFEFEF" />
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:background="#ffffff"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/coupondetail_valid_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginTop="20dp"
+                        android:gravity="center"
+                        android:text=""
+                        android:textSize="14sp" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffff"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:id="@+id/shangjia_icon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_centerVertical="true"
+                        android:background="@drawable/icon_detail_store" />
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="8dp"
+                        android:text="商家信息"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/shangjia_icon"
+                        android:textColor="#BFBFBF"
+                        android:textSize="14sp" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#EFEFEF" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffff"
+                    android:orientation="vertical" >
+
+                    <RelativeLayout
+                        android:id="@+id/coupondetail_shop"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginTop="10dp"
+                            android:text="商家："
+                            android:layout_centerVertical="true"
+                            android:textColor="#C7C7C7"
+                            android:textSize="14sp" />
+
+                        <TextView
+                            android:id="@+id/shop_name"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="16dp"
+                            android:layout_marginTop="16dp"
+                            android:layout_centerVertical="true"
+                            android:text="享甜" />
+                    </RelativeLayout>
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="0.2dp"
+                        android:background="#EFEFEF" />
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:id="@+id/address_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginRight="10dp"
+                            android:layout_marginTop="8dp"
+                            android:text="地址："
+                            android:layout_centerVertical="true"
+                            android:textColor="#C7C7C7"
+                            android:textSize="14sp" />
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_toRightOf="@+id/address_text" >
+
+                            <TextView
+                                android:id="@+id/coupondetail_address"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentRight="true"
+                                android:layout_marginRight="10dp"
+                                android:layout_centerVertical="true"
+                                android:maxEms="15"
+                                android:layout_marginTop="8dp"
+                                android:gravity="right"
+                                android:text="" />
+                        </RelativeLayout>
+                    </RelativeLayout>
+
+                    <View
+                        android:layout_width="fill_parent"
+                        android:layout_height="0.2dp"
+                        android:background="#EFEFEF" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginTop="8dp"
+                            android:text="电话："
+                            android:layout_centerVertical="true"
+                            android:textColor="#C7C7C7"
+                            android:textSize="14sp" />
+
+                        <TextView
+                            android:id="@+id/coupondetail_phone"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="16dp"
+                            android:layout_marginTop="8dp"
+                            android:layout_centerVertical="true"
+                            android:layout_toLeftOf="@+id/coupondetail_phone_image"
+                            android:text="028-61154876" />
+
+                        <ImageView
+                            android:id="@+id/coupondetail_phone_image"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="16dp"
+                            android:layout_centerVertical="true"
+                            android:layout_marginTop="8dp"
+                            android:src="@drawable/business_details_telephone_icon" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- 3 -->
+
+            <LinearLayout
+                
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/coupondetail_detail"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffff"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:id="@+id/youhui_icon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_centerVertical="true"
+                        android:background="@drawable/icon_detail" />
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="8dp"
+                        android:text="优惠详情"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/youhui_icon"
+                        android:textColor="#ff0000"
+                        android:textSize="14sp" />
+                    <ImageView 
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="10dp"
+                        android:src="@drawable/jiantou"
+                        />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#EFEFEF" />
+
+               <!--  <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffff"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/coupondetail_detail"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:lineSpacingExtra="3dp"
+                        android:paddingLeft="10dp"
+                        android:text=" " />
+                </LinearLayout>   --> 
+            </LinearLayout>
+            <!-- 3 -->
+
+            <Button
+                android:id="@+id/btn_coupondetail"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_margin="16dp"
+                android:background="@drawable/shape_buydetail"
+                android:gravity="center"
+                android:text="立即购买"
+                android:textColor="#ffffff"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </com.android.lehuitong.view.VerticalScrollView>
+
+
+</LinearLayout>

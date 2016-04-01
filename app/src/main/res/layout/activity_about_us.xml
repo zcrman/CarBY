@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F2F2F2" >
+
+    <include layout="@layout/titlebar" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="25dp" >
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:id="@+id/fangpan_logo"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/logo" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:text="版本号 "
+                android:textColor="#C0C0C0"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp"
+                android:text="1.0"
+                android:textColor="#C0C0C0"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:background="#FFFFFF"
+        android:id="@+id/version_update"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dip"
+        android:gravity="center" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="16dp"
+             android:layout_centerInParent="true"
+            android:text="版本更新"
+            android:textColor="#000000"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+             android:layout_centerInParent="true"
+          android:layout_marginRight="16dp"
+            android:text="已是最新版本"
+            android:textColor="#000000"
+            android:textSize="15sp" />
+    </RelativeLayout>
+<View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#f2f2f2" />
+    <RelativeLayout
+        android:background="#FFFFFF"
+        android:id="@+id/edition_statement"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="0dip"
+        android:gravity="center" >
+
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="right"
+        android:layout_marginRight="16dip"
+            android:src="@drawable/ktv_switch_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+         android:layout_centerInParent="true"
+         android:layout_alignParentLeft="true"
+            android:layout_marginLeft="16dp"
+            android:text="版本说明"
+            android:textColor="#000000"
+            android:textSize="15sp" />
+    </RelativeLayout>
+<View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#f2f2f2" />
+    <RelativeLayout
+        android:background="#FFFFFF"
+        android:id="@+id/call_phone"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="0dip"
+        android:gravity="center" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="16dp"
+            android:text="客服电话"
+            android:textColor="#000000"
+            android:textSize="15sp" />
+        <TextView
+            android:layout_toLeftOf="@+id/call_phone_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           
+            android:layout_marginLeft="16dp"
+             android:layout_centerInParent="true"
+            android:text="028-61154876"
+            android:textColor="#000000"
+            android:textSize="15sp" />
+       <ImageView
+           android:id="@+id/call_phone_button"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="right"
+             android:layout_marginRight="16dip"
+            android:paddingLeft="10dp"
+            android:src="@drawable/business_details_telephone_icon" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         >
+       <RelativeLayout 
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+           >
+        <TextView 
+            android:id="@+id/company_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Copyright©2011-2016"
+            android:textColor="#c0c0c0"
+            android:gravity="center"/>
+        <TextView 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="西藏欣成乐白隆实业有限公司"
+            android:layout_below="@id/company_name"
+            android:layout_marginTop="10dp"
+            android:textColor="#c0c0c0"
+            android:gravity="center"/>
+            
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

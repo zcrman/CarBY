@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <include
+        android:id="@+id/eat_title"
+        layout="@layout/titlebar_search"/>
+<fragment 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="com.android.lehuitong.fragment.EatFragmentTab" 
+        android:id="@+id/tabs_fragment" />
+    
+    
+    <FrameLayout 
+        android:id="@+id/manage_client_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    </FrameLayout>
+    
+</LinearLayout>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f2f2f2"
+    android:orientation="vertical" >
+
+    <include layout="@layout/titlebar" />
+
+    <com.android.lehuitong.view.VerticalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f2f2f2"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#EFEFEF"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/activity_image"
+                android:layout_width="match_parent"
+                android:layout_height="160dp" >
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/activity_shop_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/default_image" />
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="#50000000" >
+
+                    <TextView
+                        android:id="@+id/activity_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="16dp"
+                        android:text="烤匠碳火烤鱼周二周三会员活动"
+                        android:textColor="#FFFFFF"
+                        android:textSize="14sp" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/activity_time"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:background="#ffffff"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="32dp"
+                    android:layout_marginLeft="8dp"
+                    android:background="#ffffff" >
+
+                    <ImageView
+                        android:id="@+id/huodong_icon"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="8dp"
+                        android:background="@drawable/icon_time"
+                        android:padding="5dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@id/huodong_icon"
+                        android:padding="5dp"
+                        android:text="活动时间"
+                        android:textColor="#BFBFBF"
+                        android:textSize="14sp" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#EFEFEF" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="80dp"
+                    android:background="#ffffff"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/activity_valid_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginTop="20dp"
+                        android:gravity="center"
+                        android:text=""
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/activity_privilege"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="16dp"
+                        android:layout_marginTop="8dp"
+                        android:text="乐汇通会员到店消费人均8折优惠"
+                        android:textColor="#F54337" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:background="#ffffff"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:background="#ffffff"
+                    android:orientation="horizontal"
+                    android:padding="5dp" >
+
+                    <ImageView
+                        android:id="@+id/map_button"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/icon_detail_store" />
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_margin="8dp"
+                        android:layout_toRightOf="@+id/map_button"
+                        android:text="商家信息"
+                        android:textColor="#BFBFBF"
+                        android:textSize="16sp" />
+                    <TextView 
+                        android:layout_marginRight="11dp"
+                        android:id="@+id/shop_enter"
+                        android:padding="5dp"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="进入商家"
+                        android:textColor="#ffffff"
+                        android:background="@drawable/rounded_button"
+                        />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#EFEFEF" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ffffff"
+                    android:orientation="vertical" >
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginTop="16dp"
+                            android:text="商家："
+                            android:layout_centerVertical="true"
+                            android:textColor="#C7C7C7"
+                            android:textSize="14sp" />
+
+                        <TextView
+                            android:id="@+id/activity_shop"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="16dp"
+                            android:layout_centerVertical="true"
+                            android:layout_marginTop="16dp"
+                            android:maxEms="14"
+                            android:text="享甜" />
+                    </RelativeLayout>
+<View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#EFEFEF" />
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginTop="8dp"
+                            android:text="地址："
+                            android:layout_centerVertical="true"
+                            android:textColor="#C7C7C7"
+                            android:textSize="14sp" />
+
+                        <TextView
+                            android:id="@+id/activity_address"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="16dp"
+                            android:layout_marginTop="8dp"
+                            android:layout_centerVertical="true"
+                            android:maxEms="14"
+                            android:text="武侯区科华北路143号" />
+                    </RelativeLayout>
+<View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#EFEFEF" />
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginTop="8dp"
+                            android:layout_centerVertical="true"
+                            android:text="电话："
+                            android:textColor="#C7C7C7"
+                            android:textSize="14sp" />
+
+                        <TextView
+                            android:id="@+id/activity_phone"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="8dp"
+                            android:layout_marginTop="8dp"
+                            android:layout_toLeftOf="@+id/activity_phone_image"
+                            android:maxEms="11"
+                            android:layout_centerVertical="true"
+                            android:text="028-61154876" />
+
+                        <ImageView
+                            android:id="@+id/activity_phone_image"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="16dp"
+                            android:layout_marginTop="8dp"
+                            android:layout_centerVertical="true"
+                            android:src="@drawable/business_details_telephone_icon" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- 3 -->
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:background="#ffffff"
+                android:orientation="vertical" >
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.2dp"
+                    android:background="#EFEFEF" />
+
+                <LinearLayout
+                    android:id="@+id/activity_detail"
+                    android:layout_width="fill_parent"
+                    android:layout_height="120dp"
+                    android:background="#ffffff"
+                    android:orientation="horizontal" >
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="#ffffff" >
+
+                        <ImageView
+                            android:id="@+id/youhui_icon"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="16dp"
+                            android:background="@drawable/icon_detail"
+                            android:padding="5dp" />
+
+                        <TextView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="10dp"
+                            android:layout_toRightOf="@id/youhui_icon"
+                            android:padding="5dp"
+                            android:text="活动详情"
+                            android:textColor="#ff0000"
+                            android:textSize="14sp" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="10dp"
+                            android:padding="5dp"
+                            android:src="@drawable/jiantou" />
+                  <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.2dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_below="@id/youhui_icon"
+                    android:background="#EFEFEF" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </com.android.lehuitong.view.VerticalScrollView>
+
+</LinearLayout>

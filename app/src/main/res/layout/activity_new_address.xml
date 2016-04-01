@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F2F2F2"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/title_new_address"
+        layout="@layout/titlebar" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title_new_address"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/my_coupons"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:gravity="center" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="16dp"
+                android:text="收货人:"
+                android:paddingTop="9dp"
+                android:paddingBottom="9dp"
+                android:textColor="#AAAAAA"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/address_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="35dp"
+                android:text=""
+                android:maxEms="7"
+                android:textColor="#3E3E3E"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#f2f2f2" />
+
+        <RelativeLayout
+            android:id="@+id/user_phone_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:gravity="center" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="16dp"
+                android:text="手机号码:"
+                android:textColor="#AAAAAA"
+                android:paddingTop="9dp"
+                android:paddingBottom="9dp"
+                android:textSize="15sp" />
+
+            <TextView
+                 android:id="@+id/address_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="35dp"
+                android:text=""
+                android:inputType="number"
+                android:maxLength="11"
+                android:textColor="#3E3E3E"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#f2f2f2" />
+
+        <RelativeLayout
+            android:id="@+id/select_address"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dip"
+            android:background="#FFFFFF"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/address_icn"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="right"
+                android:layout_marginRight="16dip"
+                
+                android:src="@drawable/ktv_switch_icon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="16dp"
+                android:text="所在地区:"
+                android:textColor="#AAAAAA"
+                android:paddingTop="9dp"
+                android:paddingBottom="9dp"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/address_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:layout_toLeftOf="@id/address_icn"
+                android:text=""
+                android:textColor="#3E3E3E"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#f2f2f2" />
+
+        <RelativeLayout
+            android:id="@+id/user_address_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:layout_marginBottom="10dp"
+            android:gravity="center" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="16dp"
+                android:text="详细地址:"
+                android:paddingTop="9dp"
+                android:paddingBottom="9dp"
+                android:textColor="#AAAAAA"
+                android:textSize="15sp" />
+
+            <TextView
+                 android:id="@+id/address_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="35dp"
+                android:text=""
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:maxEms="10"
+                android:textColor="#3E3E3E"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#f2f2f2" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/save_address"
+        android:layout_width="fill_parent"
+        android:layout_height="40dip"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/rounded_button"
+        android:gravity="center"
+        android:text="保存地址"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp" />
+
+</RelativeLayout>

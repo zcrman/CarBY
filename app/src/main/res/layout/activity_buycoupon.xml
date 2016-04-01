@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#F0F0F2"
+    android:orientation="vertical" >
+
+    <include layout="@layout/titlebar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="@null" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="60dp"
+                android:background="#ffffff" >
+
+                <com.BeeFramework.view.WebImageView
+                    android:id="@+id/buycoupon_image"
+                    android:layout_width="75dp"
+                    android:layout_height="50dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/default_image" />
+
+                <TextView
+                    android:id="@+id/buycoupon_context"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_toRightOf="@+id/buycoupon_image"
+                    android:text="享甜价值10元代金券一张" />
+
+                <TextView
+                    android:id="@+id/num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/buycoupon_image"
+                    android:text="数量：" />
+
+                <ImageView
+                    android:id="@+id/buycoupon_reduction"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/num"
+                    android:background="@drawable/my_shopping_cart_reduction_icon" />
+
+                <TextView
+                    android:id="@+id/buycoupon_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/buycoupon_reduction"
+                    android:text="1" />
+
+                <ImageView
+                    android:id="@+id/buycoupon_plus_selected"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/buycoupon_num"
+                    android:background="@drawable/my_shopping_cart_plus_selected_icon" />
+                <ImageView 
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/juxing"
+                    android:layout_toLeftOf="@+id/buycoupon_price"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="11dp"
+                    android:layout_marginRight="1dp"
+                    />
+                <TextView 
+                    android:id="@+id/buycoupon_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:text="1"
+                    android:textColor="#ff0000"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginRight="22dp"
+                    />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rela_buycoupon_nouse"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="16dp"
+                android:background="#ffffff" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="16dp"
+                    android:text="红包"
+                    android:textColor="#B3B3B3" />
+
+                <ImageView
+                    android:id="@+id/imageview1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="16dp"
+                    android:src="@drawable/ktv_switch_icon" />
+
+                <TextView
+                    android:id="@+id/buycoupon_nouse"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@+id/imageview1"
+                    android:text="无可用"
+                     android:layout_marginRight="10dp"
+                    android:textColor="#F44236" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:background="#ffffff"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/rela_buycoupon_total_payable"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="16dp"
+                        android:text="应付总额" />
+                    
+                    <ImageView 
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/juxing"
+                    android:layout_toLeftOf="@+id/buycoupon_total_payable"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="5dp"
+                    />
+
+                    <TextView
+                        android:id="@+id/buycoupon_total_payable"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="22dp"
+                        android:text="10元"
+                        android:textColor="#F44236" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.5dp"
+                    android:background="#F0F0F2" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.5dp"
+                    android:background="#F0F0F2" />
+
+                <RelativeLayout
+                    android:id="@+id/rela_alipay"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/imageview_alipay"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="16dp"
+                        android:background="@drawable/alipay" />
+
+                    <TextView
+                        android:id="@+id/alipay_textview"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_toRightOf="@+id/imageview_alipay"
+                        android:text="支付宝支付" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/alipay_textview"
+                        android:layout_marginLeft="8dp"
+                        android:layout_toRightOf="@+id/imageview_alipay"
+                        android:text="推荐有支付宝账号的用户使用"
+                        android:paddingTop="3dp"
+                        android:paddingBottom="5dp"
+                        android:textColor="#BFBFBF"
+                        android:textSize="12sp" />
+
+                    <ImageView
+                        android:id="@+id/alipay_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="16dp"
+                        android:src="@drawable/my_shopping_cart_choice_icon" />
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.5dp"
+                    android:background="#F0F0F2" />
+
+                <RelativeLayout
+                    android:id="@+id/rela_wechat"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:id="@+id/imageview_wechat"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="16dp"
+                        android:background="@drawable/wechat" />
+
+                    <TextView
+                        android:id="@+id/wechat_textview"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_toRightOf="@+id/imageview_wechat"
+                        android:text="微信支付" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/wechat_textview"
+                        android:layout_marginLeft="8dp"
+                        android:layout_toRightOf="@+id/imageview_wechat"
+                        android:text="推荐安装微信5.0版本以上的用户使用"
+                        android:textColor="#BFBFBF"
+                        android:paddingTop="3dp"
+                        android:paddingBottom="5dp"
+                        android:textSize="12sp" />
+
+                    <ImageView
+                        android:id="@+id/wechat_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="16dp"
+                        android:src="@drawable/my_shopping_cart_not_selected_icon" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="6dp"
+                android:background="#f2f2f2" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#ffffff"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:paddingLeft="16dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="温馨提示"
+                    android:textColor="#F44236" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="#f2f2f2" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:text="\t亲，购买之后优惠券号会通过短信发送到您的手机上，您也可以在我的购买订单中查看，在您到达我们的小店之后，您可以把此优惠券号告诉我们的店员，即可享受优惠。"
+                    android:textColor="#BFBFBF" 
+                    android:lineSpacingExtra="5dp"/>
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp" >
+
+                <Button
+                    android:id="@+id/btn_buycoupon"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_margin="16dp"
+                    android:layout_marginBottom="20dp"
+                    android:background="@drawable/shape_buydetail"
+                    android:gravity="center"
+                    android:text="确认支付"
+                    android:textColor="#ffffff"
+                    android:textSize="14sp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "C:\\work\\AndroidProject\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\work\\AndroidProject\\lehuitong\\app\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "D:\\Android Work\\lehuitong\\app\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "D:\\Android Work\\lehuitong\\app\\src\\main\\res\\color\\vpi__light_theme.xml"
+    }
+]

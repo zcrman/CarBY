@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">乐汇通</string>
+
+    <!-- XListView -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="qfish_introduction">Love coding and hand-drawing, while he is also skilled in HTML and CSS and JS.
+        What he always saying is "Fight, a way of surviving ~".</string>
+    <string name="integral_gain">通过短信、手机或者在网站上对消费过得订单进行评价、即可获赠与每次现金消费金额相等的积分（不含用抵用券支付的部分）</string>
+    <string name="integral_consume">通过短信、手机或者在网站上对消费过得订单进行评价、即可获赠与每次现金消费金额相等的积分（不含用抵用券支付的部分）。通过短信、手机或者在网站上对消费过得订单进行评价、即可获赠与每次现金消费金额相等的积分（不含用抵用券支付的部分）</string>
+    <string name="select_province">选择省</string>
+    <string name="select_city">选择市</string>
+    <string name="select_area">选择地区</string>
+    <string name="country">国家</string>
+    <string name="province">省</string>
+    <string name="city">市</string>
+    <string name="area">地区</string>
+    <string name="addressb_country">选择国家</string>
+    <string name="title_activity_phone_number_dilog">PhoneNumberDilog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_agree">乐汇通用户协议</string>
+    <string name="text_one">1.\t用户点击乐汇注册页面的同意注册按钮完成注册程序、获得乐汇网账号或密码时，视为用户与乐汇网已达成《乐汇网用户协议》，就用户进入美团网消费(即用户通过乐汇网与商家进行团购交易)达成本协议的全部约定</string>
+
+    <!-- >>>>>> b7b9bee162b33b9c0fe4ade6b83006dcc1160640 -->
+
+    <string name="app_tip">提示</string>
+    <string name="pay_result_callback_msg" formatted="false">微信支付结果：%s</string>
+    <string name="getting_prepayid">正在获取预支付信息...</string>
+    <string name="small_tip">   亲，付款成功或者预定成功后，请亲耐心等待我们的店员电话确认，确认后会通过短信将订单的确认码告诉亲们，在您到店消费后，请在付款时，将此优惠券号告诉我们的店员，即可享受服务。</string>
+    <string name="smalltip">"  亲，购买之后，优惠券的确认码会通过短信发到您的手机上，您也可以在我的预定订单中查看。在您到店消费后，请在付款时，将此确认码告诉我们的店员，即可享受优惠。"</string>
+    <string name="title_activity_web">WebActivity</string>
+
+</resources>

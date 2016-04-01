@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f1f1">
+    <LinearLayout 
+        android:id="@+id/timer_picker_wrapper"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView 
+            android:id="@+id/time_picker_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="时间选择"
+            android:textSize="16sp"
+            android:textColor="#000000"/>
+        
+        <View 
+            android:layout_width="fill_parent"
+            android:layout_height="0.1dp"
+            android:background="#dcdcdc"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/numberpicker_list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/timer_picker_wrapper"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal" >
+
+        <net.simonvt.numberpicker.NumberPicker
+            android:id="@+id/time_year_picker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="32dp"
+            android:layout_marginRight="16dp"
+            android:layout_weight="1.0" >
+        </net.simonvt.numberpicker.NumberPicker>
+
+        <net.simonvt.numberpicker.NumberPicker
+            android:id="@+id/time_month_picker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_weight="1.0" >
+        </net.simonvt.numberpicker.NumberPicker>
+
+        <net.simonvt.numberpicker.NumberPicker
+            android:id="@+id/time_day_picker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="32dp"
+            android:layout_weight="1.0" >
+        </net.simonvt.numberpicker.NumberPicker>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/select_huxing_buttons"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/numberpicker_list"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp" >
+
+        <Button
+            android:id="@+id/dialog_btn_negative"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_shape_light_gray"
+            android:text="取消"
+            android:textSize="14sp"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/dialog_btn_positive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="30dp"
+            android:layout_weight="1.0"
+            android:background="@drawable/btn_shape_heavy_red"
+            android:text="确定"
+            android:textSize="14sp"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+</RelativeLayout>
